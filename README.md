@@ -1,1 +1,3 @@
 # pixelArtMaker
+
+## Project Notes:
