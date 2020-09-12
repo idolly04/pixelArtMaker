@@ -1,3 +1,3 @@
 # pixelArtMaker
 
-## Project Notes:
+## Udacity Final project of JavaScript
