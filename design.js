@@ -14,10 +14,10 @@ function makeGrid() {
   // create rows depend on user input
   for(let r = 0; r < h; r++) {
 
-  	let ro = canvas.insertRow();
+  	let row = canvas.insertRow();
     for(let c = 0; c < w; c++) {
       // create cell in each row
-      let col = ro.insertCell();
+      let col = row.insertCell();
       col.addEventListener('click', function(e) {
         let picker = document.getElementById("colorPicker").value;
         e.target.style.backgroundColor = picker;
