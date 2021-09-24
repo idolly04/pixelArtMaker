@@ -1,3 +1,3 @@
 # pixelArtMaker
 
-### Udacity Final project of JavaScript
+[Play around with it](https://pixelsartmaker.netlify.app)
